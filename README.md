@@ -17,25 +17,6 @@ I'm a undergraduate **B.Tech CSE (AI/ML)** student at Polaris School Of Technolo
 - 📬 Reach me: [LinkedIn](https://linkedin.com/in/siddhi--khandelwal)
 - ⚡ I value accuracy over speed and prefer doing things right the first time.
  
-## 🔀 Active Contributions
- 
-### ✅ Recently Merged
-| PR | Repo | Description |
-|---|---|---|
-| [#1235](https://github.com/hyperledger-labs/fabric-smart-client/pull/1235) | fabric-smart-client | Squirrel migration — approved by arner & mbrandenburger |
-| [#1199](https://github.com/hyperledger-labs/fabric-smart-client/pull/1199) | fabric-smart-client | SignerInfoStore squirrel migration |
-| [#1482](https://github.com/hyperledger-labs/fabric-token-sdk/pull/1482) | fabric-token-sdk | Certifier driver unit tests |
-| [#1450](https://github.com/hyperledger-labs/fabric-token-sdk/pull/1450) | fabric-token-sdk | IdentityType refactor: string → int32 with custom ASN.1 marshaling |
- 
-### 🚧 Open / Draft
-| PR | Repo | Description |
-|---|---|---|
-| [#1597](https://github.com/hyperledger-labs/fabric-token-sdk/pull/1597) | fabric-token-sdk | `boolpolicy` pkg: parser, ASN.1 identity, sparse sig envelope, integration tests T14/T15 |
-| [#1301](https://github.com/hyperledger-labs/fabric-smart-client/pull/1301) | fabric-smart-client | VaultStore squirrel migration with `ApplyToSquirrel` pagination helper |
- 
-### 🔜 Up Next
-- `auditinfo.go` squirrel migration — fabric-smart-client ([issue #1159](https://github.com/hyperledger-labs/fabric-smart-client/issues/1159))
- 
 ## 🛠️ Tech Stack
  
 # Languages

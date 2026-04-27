@@ -62,7 +62,7 @@ I'm a undergraduate **B.Tech CSE (AI/ML)** student at Polaris School Of Technolo
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
 </p>
-### Domain Focus
+# Domain Focus
 <p>
   <img alt="Hyperledger Fabric" src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134.svg?logo=hyperledger&logoColor=white"/>
   <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33.svg?logo=ethereum&logoColor=white"/>

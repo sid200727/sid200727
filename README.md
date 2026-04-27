@@ -9,11 +9,7 @@
  
 ### 👩‍💻 About Me
  
-I'm a first-year **B.Tech CSE (AI/ML)** student at Medhavi Skills University, Bengaluru — and an independent open source contributor to the **Hyperledger Fabric-X** ecosystem since February 2026.
- 
-I work across two active repositories: **fabric-token-sdk** and **fabric-smart-client**, contributing everything from UTXO token privacy layers and ZK-proof drivers to database migration and policy-based identity systems.
- 
-Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research).
+I'm a undergraduate **B.Tech CSE (AI/ML)** student at Polaris School Of Technology, Bengaluru and an independent open source contributor to the **Hyperledger Fabric-X** ecosystem since February 2026.
  
 - 🔗 Focus: `fabric-token-sdk` · `fabric-smart-client` · Hyperledger Labs
 - 🧠 Interests: Blockchain · ZK-SNARKs · AI/ML · Distributed Systems
@@ -42,7 +38,7 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
  
 ## 🛠️ Tech Stack
  
-### Languages
+# Languages
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
@@ -51,13 +47,13 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"/>
 </p>
-### Frameworks & Libraries
+# Frameworks & Libraries
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
 </p>
-### Databases & Tools
+# Databases & Tools
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>

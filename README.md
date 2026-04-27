@@ -6,7 +6,6 @@
   &nbsp;
   <a href="https://github.com/sid200727"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
 </p>
----
  
 ### 👩‍💻 About Me
  
@@ -21,7 +20,6 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
 - 🛠️ Stack: Go · Python · ASN.1 · PostgreSQL · SQLite · squirrel
 - 📬 Reach me: [LinkedIn](https://linkedin.com/in/siddhi--khandelwal)
 - ⚡ I value accuracy over speed and prefer doing things right the first time.
----
  
 ## 🔀 Active Contributions
  
@@ -41,7 +39,6 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
  
 ### 🔜 Up Next
 - `auditinfo.go` squirrel migration — fabric-smart-client ([issue #1159](https://github.com/hyperledger-labs/fabric-smart-client/issues/1159))
----
  
 ## 🛠️ Tech Stack
  
@@ -76,7 +73,6 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
   <img alt="ZK Proofs" src="https://img.shields.io/badge/ZK--SNARKs-6b3fa0.svg?logoColor=white"/>
   <img alt="AI/ML" src="https://img.shields.io/badge/AI%2FML-9b59b6.svg?logo=python&logoColor=white"/>
 </p>
----
  
 ## 📊 Stats
  
@@ -87,7 +83,6 @@ Currently applying to **LFX Mentorship 2026** under Angelo De Caro (IBM Research
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid200727&theme=react-dark&bg_color=0d0d1a&color=c9a8e0&line=9b59b6&point=e8d5f5&area=true&hide_border=true"/>
 </p>
----
  
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,50:2d1b69,100:0d0d1a&height=120&section=footer&animation=fadeIn"/>

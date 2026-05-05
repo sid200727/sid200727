@@ -9,7 +9,7 @@
  
 ### 👩‍💻 About Me
  
-I'm a undergraduate **B.Tech CSE (AI/ML)** student at Polaris School Of Technology, Bengaluru and an independent open source contributor to the **Hyperledger Fabric-X** ecosystem since February 2026.
+I'm a undergraduate **B.Tech CSE (AI/ML)** student at Medhavi Skills University and an independent open source contributor to the **Hyperledger Fabric-X** ecosystem since February 2026.
  
 - 🔗 Focus: `fabric-token-sdk` · `fabric-smart-client` · Hyperledger Labs
 - 🧠 Interests: Blockchain · ZK-SNARKs · AI/ML · Distributed Systems

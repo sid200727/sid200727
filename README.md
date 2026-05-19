@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a first-year **B.Tech CSE (AI/ML)** student and an independent open-source contributor to the **Hyperledger Fabric-X** ecosystem.
+I'm a **B.Tech CSE (AI/ML)** student and an independent open-source contributor to the **Hyperledger Fabric-X** ecosystem.
 
 ```text
 🔗  Repos       fabric-token-sdk  ·  fabric-smart-client

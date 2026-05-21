@@ -55,7 +55,7 @@ I'm a **B.Tech CSE (AI/ML)** student and an independent open-source contributor 
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,bash"/>
+  <img src="https://skillicons.dev/icons?i=go,python,javascript,bash"/>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=react,postgres,mongodb,sqlite,docker,git,vscode"/>

@@ -103,7 +103,7 @@ var current = Focus{
         "Policy-based identity & boolean access control systems",
         "Database layer migrations for distributed vault stores",
     },
-    Goal: "LFX Mentorship 2026 · Fabric-X Chaincode Support",
+    Goal: "LFX Mentorship 2026 ",
 }
 ```
 

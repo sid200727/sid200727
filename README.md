@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,35:2d1b69,70:6b3fa0,100:9b59b6&height=220&section=header&text=Siddhi%20Khandelwal&fontSize=55&fontColor=e9d5ff&animation=twinkling&fontAlignY=42&desc=Open%20Source%20%7C%20Hyperledger%20Fabric-X%20%7C%20B.Tech%20CSE%20AI%2FML&descSize=16&descAlignY=65&descColor=d8b4fe"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,35:2d1b69,70:6b3fa0,100:9b59b6&height=220&section=header&text=Siddhi%20Khandelwal&fontSize=55&fontColor=e9d5ff&animation=twinkling&fontAlignY=42&desc=Open%20Source%20%7C%20Cloud%20Native%20%7C%20Distributed%20Systems%20in%20Go&descSize=16&descAlignY=65&descColor=d8b4fe"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=600&color=C084FC&center=true&vCenter=true&multiline=false&width=600&lines=Building+at+the+edges+of+trust+%F0%9F%94%97;Go+%7C+Blockchain+%7C+ZK-SNARKs+%7C+AI%2FML+%F0%9F%A7%A0;Open+Source+%40+Hyperledger+Fabric-X+%F0%9F%8C%90;Accuracy+over+speed.+Quality+over+volume.+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=600&color=C084FC&center=true&vCenter=true&multiline=false&width=600&lines=Distributed+systems%2C+one+PR+at+a+time+%F0%9F%94%97;Go+%7C+Kubernetes+%7C+PostgreSQL+%7C+Blockchain+%E2%9A%99%EF%B8%8F;CNCF+%C2%B7+LFDT+%C2%B7+Kubernetes-SIGs+contributor+%F0%9F%8C%90;Accuracy+over+speed.+Quality+over+volume.+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,12 +22,12 @@
 
 ### 👩‍💻 About Me
 
-I'm a **B.Tech CSE (AI/ML)** student and an independent open-source contributor to the **Hyperledger Fabric-X** ecosystem.
+I'm a **Computer Science undergraduate (AI/ML) at the University of Liverpool** and an independent open-source contributor working across the **CNCF, Kubernetes-SIGs, and LF Decentralized Trust** ecosystems.
 
 ```text
-🔗  Repos       fabric-token-sdk  ·  fabric-smart-client
-🧠  Interests   Blockchain  ·  ZK-SNARKs  ·  Distributed Systems  ·  AI/ML
-🛠️  Stack       Go  ·  Python  ·  ASN.1  ·  PostgreSQL  ·  squirrel
+🔗  Repos       nebraska (Flatcar)  ·  volcano  ·  chaos-mesh  ·  headlamp  ·  backstage  ·  panurus  ·  fabric-smart-client
+🧠  Interests   Distributed Systems  ·  Kubernetes  ·  Storage Layers  ·  Blockchain  ·  AI/ML
+🛠️  Stack       Go  ·  Python  ·  TypeScript  ·  PostgreSQL  ·  Docker  ·  GitHub Actions
 ⚡  Principle   Accuracy over speed. Quality over volume.
 ```
 
@@ -37,16 +37,16 @@ I'm a **B.Tech CSE (AI/ML)** student and an independent open-source contributor 
 
 <div align="center">
 
-| 🔐 Privacy & Identity | 🗄️ Database Systems | 🤖 AI / ML |
+| ☸️ Cloud Native | 🗄️ Storage & Concurrency | 🔐 Blockchain & Identity |
 |---|---|---|
-| Policy-based identity systems | SQL query builder migrations | Healthcare records platform |
-| Token privacy layers (UTXO) | Pagination & store abstractions | Role-based access dashboards |
-| ZK-proof driver integration | Multi-store vault architecture | RAG pipelines & NLP tooling |
-| ASN.1 encoding & marshaling | Integration & unit test suites | Generative AI side projects |
+| HA leadership coordination (Nebraska) | Prepared statement caching & perf work | Policy-based identity systems |
+| Scheduler unit testing (Volcano) | Advisory-lock cleanup leadership | Token privacy layers (UTXO) |
+| CI/workflow refactors (Chaos Mesh) | SQL query builder migrations | ZK-proof driver integration |
+| Backend cache fixes (Headlamp) | Iterator & pagination abstractions | ASN.1 encoding & marshaling |
 
 </div>
 
-> Primarily contributing to **enterprise blockchain infrastructure** at the intersection of cryptography, distributed systems, and Go engineering.
+> Contributing to **production infrastructure** at the intersection of distributed systems, storage engines, and Go engineering — with measured results (+11% throughput, −73% P99 latency in recent database-layer work).
 
 ---
 
@@ -55,16 +55,16 @@ I'm a **B.Tech CSE (AI/ML)** student and an independent open-source contributor 
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,javascript,bash"/>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,postgres,mongodb,sqlite,docker,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,postgres,mongodb,sqlite,git,githubactions,vscode"/>
 </p>
 <p>
-  <img alt="Hyperledger Fabric" src="https://img.shields.io/badge/Hyperledger%20Fabric-2d1b69?style=for-the-badge&logoColor=white"/>
-  <img alt="ZK-SNARKs" src="https://img.shields.io/badge/ZK--SNARKs-6b3fa0?style=for-the-badge&logoColor=white"/>
-  <img alt="AI/ML" src="https://img.shields.io/badge/AI%2FML-7c3aed?style=for-the-badge&logoColor=white"/>
-  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-0d0d1a?style=for-the-badge&logoColor=white"/>
+  <img alt="CNCF" src="https://img.shields.io/badge/CNCF-2d1b69?style=for-the-badge&logoColor=white"/>
+  <img alt="Kubernetes-SIGs" src="https://img.shields.io/badge/Kubernetes--SIGs-6b3fa0?style=for-the-badge&logoColor=white"/>
+  <img alt="LF Decentralized Trust" src="https://img.shields.io/badge/LF%20Decentralized%20Trust-7c3aed?style=for-the-badge&logoColor=white"/>
+  <img alt="Distributed Systems" src="https://img.shields.io/badge/Distributed%20Systems-0d0d1a?style=for-the-badge&logoColor=white"/>
 </p>
 
 </div>
@@ -98,12 +98,13 @@ type Focus struct {
 }
 
 var current = Focus{
-    Domain: "Hyperledger Fabric-X ecosystem",
+    Domain: "Cloud native & distributed systems (CNCF · Kubernetes-SIGs · LFDT)",
     Building: []string{
-        "Policy-based identity & boolean access control systems",
-        "Database layer migrations for distributed vault stores",
+        "HA syncer leadership coordination in Flatcar Nebraska",
+        "Scheduler test coverage in Volcano & CI refactors in Chaos Mesh",
+        "Database-layer performance work in LFDT Panurus",
     },
-    Goal: "LFX Mentorship 2026 ",
+    Goal: "LFX Mentorship 2026 Term 3 ",
 }
 ```
 

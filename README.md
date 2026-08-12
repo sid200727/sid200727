@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Computer Science undergraduate (AI/ML) at the University of Liverpool** and an independent open-source contributor working across the **CNCF, Kubernetes-SIGs, and LF Decentralized Trust** ecosystems.
+I'm a **Computer Science undergraduate at the University of Liverpool** and an independent open-source contributor working across the **CNCF, Kubernetes-SIGs, and LF Decentralized Trust** ecosystems.
 
 ```text
 🔗  Repos       nebraska (Flatcar)  ·  volcano  ·  chaos-mesh  ·  headlamp  ·  backstage  ·  panurus  ·  fabric-smart-client

@@ -75,7 +75,7 @@ I'm a **Computer Science undergraduate at the University of Liverpool** and an i
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=sid200727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sid200727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=sid200727&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=9b59b6&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=d8b4fe&sideNums=e9d5ff&currStreakNum=e9d5ff"/>
 
 <br/><br/>
@@ -104,7 +104,7 @@ var current = Focus{
         "Scheduler test coverage in Volcano & CI refactors in Chaos Mesh",
         "Database-layer performance work in LFDT Panurus",
     },
-    Goal: "LFX Mentorship 2026 Term 3 ",
+    Goal: "LFX Mentorship 2026 Term 3",
 }
 ```
 
